@@ -32,6 +32,10 @@ Projektā tiek izmantotas:
 - saraksti (list) — lai uzglabātu ziņu virsrakstus, akciju rādītājus, īpašnieku sarakstus, top akcijas;
 - vārdnīcas (dict) — indeksu ticker simbolu glabāšanai;
 
+## aprakstīsies programmatūras izmantošanas metodes
+
+Programmu var izmantot, lai savlaicīgi iegūtu informāciju par interesējošām akcijām. Programma ļauj saņemt jaunākās ziņas, attēlo visnestabilākās akcijas, ļauj redzēt nākotnes finanšu pārskatus, aktuālos notikumus tirgū un iegūt pilnīgu akciju sadalījumu.
+
 ## Programmatūras izmantošanas instrukcija
 
 1. Palaist projekts.py failu Python vidē.
