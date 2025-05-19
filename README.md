@@ -2,7 +2,7 @@
 
 ## Projekta uzdevums
 
-Šis projekts ir izstrādāts kā noslēguma darbs Python programmēšanas kursā, un tā mērķis ir automatizēt biežu manuālu darbību — finanšu tirgus informācijas meklēšanu un apkopošanu dažādos avotos. Šī programma nodrošina lietotājam iespēju iegūt būtiskāko informāciju par akcijām (tickeriem), tostarp:
+, un tā mērķis ir automatizēt biežu manuālu darbību — finanšu tirgus informācijas meklēšanu un apkopošanu dažādos avotos. Šī programma nodrošina lietotājam iespēju iegūt būtiskāko informāciju par akcijām (tickeriem), tostarp:
 
 - aktuālās akciju cenas un izmaiņas,
 - dividendes un peļņas rādītājus,
