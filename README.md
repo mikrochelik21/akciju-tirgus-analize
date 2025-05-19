@@ -22,7 +22,6 @@ Projektā tiek izmantotas šādas bibliotēkas:
 
 - requests – HTTP pieprasījumu veikšanai uz tādiem resursiem kā Yahoo Finance, IPO Scoop u.c. Tā ļauj dinamiski iegūt datus no interneta.
 - BeautifulSoup (no bs4) – HTML satura parsēšanai un vajadzīgās informācijas izgūšanai no tīmekļa lapām. Tā palīdz apstrādāt nesakārtotu HTML kodu un strukturēt datus.
-- time, re – (piemēram, alternatīvā izpilde ar laika aizturēm vai teksta apstrādei), bet šobrīd kodā netiek izmantotas plaši.
 
 Šīs bibliotēkas ļauj uzbūvēt stabilu un elastīgu sistēmu, kas balstās uz tīmekļa skrāpēšanu (web scraping) un lietotāja ievadīto ticker simbolu apstrādi.
 
