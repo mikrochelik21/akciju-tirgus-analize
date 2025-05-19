@@ -1,4 +1,3 @@
-readme_content = """
 # Akciju Tirgus Informācijas Iegūšanas Sistēma
 
 ## Projekta uzdevums
