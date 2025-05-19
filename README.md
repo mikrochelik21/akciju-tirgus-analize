@@ -31,7 +31,6 @@ Projektā tiek izmantotas:
 
 - saraksti (list) — lai uzglabātu ziņu virsrakstus, akciju rādītājus, īpašnieku sarakstus, top akcijas;
 - vārdnīcas (dict) — indeksu ticker simbolu glabāšanai;
-- kontroles plūsmas (if, for, try-except) – kļūdu apstrādei, informācijas iegūšanas loģikai un izvēlņu pārvaldībai.
 
 ## Programmatūras izmantošanas instrukcija
 
